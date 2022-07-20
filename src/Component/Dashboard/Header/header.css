@@ -1,0 +1,56 @@
+.head_text h2{
+    position: absolute;
+    /* font-family: Ubuntu; */
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;    
+    left: 310px;
+    top: 21px;
+    margin:0;
+    color: #33343D;
+}
+.head_icon p{
+    position: absolute;
+    left: 310px;
+    top: 57px;
+    /* font-family: 'Ubuntu'; */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+    /* Dark/02 */
+    color: #807D9B;
+    margin:0;
+
+}
+.search_img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1252px;
+    top: 37px;
+    cursor: pointer;
+}
+.icon_img{
+    position: absolute;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1296px;
+    top: 37px;   
+    cursor: pointer;
+}
+.ellip_img{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 1352px;
+    top: 25px;   
+    cursor: pointer;
+}

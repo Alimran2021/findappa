@@ -1,0 +1,73 @@
+.wrapper{
+    width: 1440px;
+    height: 1058px;
+    display: flex;
+}
+.main_nav{
+    width: 245.27px;
+    height: 1057.66px;
+    background: #00024C;
+}
+.finan_board{
+    width: 1194.73px;
+    height: 1058px;
+    background: #FAFAFD;
+}
+/* .logo{
+    border-bottom:solid #E7E8F282 0.91px;
+} */
+.icon_box{
+    height: 40.12px;
+    width: 40.12px;
+    left: 20.06px;
+    top: 11.85px;
+    border-radius: 10.94px;
+    background: #F8F8FA;
+    position: absolute;
+}
+/* .logo_box{
+    width:19.6px;
+    left:39.21%;
+    right:72.2%;
+    top:28.69%;
+    bottom:96.34%;
+    position:absolute;
+    transform:rotate(352deg);
+} */
+.logo_1{
+    position: absolute;
+    height: 20.82px;
+    width: 30.07px;
+    left: 54.21%;
+    right: 72.2%;
+    top: 13.70%;
+    bottom: 96.34%;
+    transform: rotate(355deg);
+}
+.finWave{
+    position: absolute;
+    height: 22px;
+    top:20.6px;
+    left:78.41px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18.2355px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #ffffff;
+}
+.back{
+    width:5.47px;
+    height:10.94px;
+    position:absolute;
+    top:26.44px;
+    left:226.12px;
+}
+.bottom-line{
+    width:246.18px;
+    height: 0.91px;
+    background: #E7E8F282;
+    position: absolute;
+    top:63.82px;
+}

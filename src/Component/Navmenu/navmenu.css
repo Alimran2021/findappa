@@ -1,0 +1,344 @@
+/* .layers{
+    position:absolute;
+    width:20.06px;
+    height: 425.8px;
+    top:104.84px;
+    left:18.24px;
+} */
+/* --------------------------
+Nav incon list start here 
+ -------------------------*/
+.grid_icon{
+    position: absolute;
+    width:18.24px;
+    height: 18.24px;
+    top:104.84px;
+    left:19.15px;
+    color:#FFFFFF; 
+    z-index: 1;
+}
+.pie_icon{
+    position: absolute;
+    width:18.24px;
+    height: 18.24px;
+    top:156.81px;
+    left:19.15px;
+    color:#FFFFFF;    
+}
+.credit_icon{
+    position: absolute;
+    width:20.06px;
+    height: 14.59px;
+    top:209.7px;
+    left:18.24px;
+    color:#FFFFFF;
+}
+.box_icon{
+    position: absolute;
+    width:18.24px;
+    height: 19.63px;
+    top:258.24px;
+    left:19.15px;
+    color:#FFFFFF; 
+}
+.calendar_icon{
+    position: absolute;
+    width:18.24px;
+    height: 20.26px;
+    top:309.08px;
+    left:19.15px;
+    color:#FFFFFF; 
+}
+.user_icon{
+    position: absolute;
+    width:14.59px;
+    height: 16.41px;
+    top:413.93px;
+    left:20.97px;
+    color:#FFFFFF; 
+}
+.shopping_icon{
+    position: absolute;
+    width:20.06px;
+    height: 19.15px;
+    top:461.34px;
+    left:18.24px;
+    color:#FFFFFF; 
+}
+.layer_icon{
+    position: absolute;
+    width:18.24px;
+    height: 18.24px;
+    top:512.4px;
+    left:19.15px;
+    color:#FFFFFF; 
+}
+.mask_icon{
+    position: absolute;
+    width:20.06px;
+    height: 16.41px;
+    top:361.05px;
+    left:18.24px;
+    color:#FFFFFF; 
+}
+.dashboard{
+    position:absolute;
+    width:113px;
+    height: 460px;
+    top:88.43px;
+    left:55.62px;
+}
+.active{
+    position: absolute;
+    width: 226.12px;
+    height: 43.77px;
+    top:92.08px;
+    background-color: #1AA8E9;
+    border-radius: 0px 4.55887px 4.55887px 0px;
+}
+.dashboard a{
+    text-decoration: none;
+}
+.notification, .oval{
+    position: absolute;
+    width:26.44px;
+    height: 26.44px;
+    top:356.04px;
+    left:199.68px;
+    background: #81C3E25E;
+    border-radius: 50%;
+}
+.notification,span{
+    position: absolute;
+    left: 209.71px;
+    top: 361.51px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0px;
+    text-align: center;
+    border-radius: nullpx;
+    color: #1AA8E9;    
+}
+/* --------------------------
+Nav Text menu start here 
+ -------------------------*/
+.grid_dashboard{
+    position: absolute;
+    height: 460px;
+    left: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.6766px;
+    line-height: 51px;
+    color: #FFFFFF;
+}
+.chart{
+    position: absolute;
+    height: 460px;
+    left: 0;
+    top:52px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.6766px;
+    line-height: 51px;
+    color: #A7A9C0;
+}
+.bank{
+    position: absolute;
+    height: 460px;
+    left: 0;
+    top:104px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.6766px;
+    line-height: 51px;
+    color: #A7A9C0;
+}
+.crypto{
+    position: absolute;
+    height: 460px;
+    left: 0;
+    top:154px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.6766px;
+    line-height: 51px;
+    color: #A7A9C0;
+}
+.calendar{
+    position: absolute;
+    height: 460px;
+    left:0;
+    top:206px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.6766px;
+    line-height: 51px;
+    color: #A7A9C0;
+}
+.chat{
+    position: absolute;
+    height: 460px;
+    left: 0;
+    top:255px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.6766px;
+    line-height: 51px;
+    color: #A7A9C0;
+}
+.user{
+    position: absolute;
+    height: 460px;
+    left:0%;
+    top:309px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.6766px;
+    line-height: 51px;
+    color: #A7A9C0;
+}
+.sales{
+    position: absolute;
+    height: 460px;
+    left: 0%;
+    top:357px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.6766px;
+    line-height: 51px;
+    color: #A7A9C0;
+}
+.porject{
+    position: absolute;
+    height: 460px;
+    left: 0;
+    top:408px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.6766px;
+    line-height: 51px;
+    color: #A7A9C0;
+}
+
+/* --------------------------
+  Bottom start here
+ -------------------------*/
+.pdf_repokt{
+    position: absolute;
+    height: 176.98px;
+    width: 246.18px;
+    left: 0px;
+    top: 664.56px;
+    }
+.report{
+    position: absolute;
+    width: 88px;
+    height: 19px;
+    left: 7.78%;
+    right: 57.69%; 
+    /* top: calc(50% - 19px/2 + 145.24px); */
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+    margin:0;
+    }
+.download{
+    position: absolute;
+    height: 18px;
+    width: 180px;
+    left: 19.15px;
+    top: 27px;
+    Opacity:85%;
+    /* top: calc(50% - 19px/2 + 145.24px); */
+    font-family: Inter;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #A7A9C0;
+    margin:0;
+    }
+.btn{
+    position:absolute;
+    height: 44.68px;
+    width: 206.06px;
+    left: 20.05px;
+    top: 34%;
+    border-radius: 4.56px;
+    background: #1AA8E947;
+    cursor: pointer;
+}
+.btn p{
+    position: absolute;
+    top:11.16px;
+    /* left:88.44px; */
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: center;    
+    left: 34%;
+    right: 35.64%;
+    /* top: calc(50% - 18px/2 + 216.77px); */
+    margin:0;
+    color:#1AA8E9;
+}
+.btn img{
+    position: absolute;
+    top:11.16px;
+    height: 13.68px;
+    width: 13.68px;      
+    right: 8.70%;
+    /* top: calc(50% - 18px/2 + 216.77px); */
+    margin:0;
+    color:#1AA8E9;
+}
+.bottom_line{
+    position:absolute;
+    height: 0.91px;
+    width: 246.18px;
+    left: 0px;
+    top: 840.64px;
+    background: #E7E8F266;
+
+
+}
+.dark_mode p{
+    position:absolute;
+    left: 19.14px;
+    top: 852.49px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+    margin:0;
+}
+.dark_mode img{
+    position: absolute;
+    height: 29.18px;
+    width: 54.71px;
+    left: 171.41px;
+    top: 856.14px;
+    border-radius: 0px;
+    cursor: pointer;
+}
